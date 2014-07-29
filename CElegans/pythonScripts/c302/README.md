@@ -79,7 +79,7 @@ Future plans include:
 
 - Implement & correctly tune **Parameters_B**, **Parameters_C**
 
-- Modify to use [PyOpenWorm](https://github.com/openworm/PyOpenWorm) as source of connection data
+- Modify to use [PyOpenWorm](https://github.com/openworm/PyOpenWorm) as source of connection data (This is being worked on)
 
 - Move all of this to its own repository
 
